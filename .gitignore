@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset - DO NOT COMMIT
+dataset/
+
+# Generated outputs
+output/
+
+# Experiment artifacts
+experiments/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
